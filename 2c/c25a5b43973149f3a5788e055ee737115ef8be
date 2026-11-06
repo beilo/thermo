@@ -1,0 +1,39 @@
+Sources/ThermoApp/FocusBreakScreen.swift
+  s_8ec7459dbb9d79::t_8b614725c0c718 1-120
+Sources/ThermoApp/FocusMenuBar.swift
+  s_8ec7459dbb9d79::t_cc0dd6da64ac64 1-76
+Sources/ThermoApp/FocusView.swift
+  s_8ec7459dbb9d79::t_7d05cef4d55e89 1-60
+Sources/ThermoApp/MainWindow.swift
+  s_8ec7459dbb9d79::t_456c384e6906a8 281
+Sources/ThermoApp/StatusMenu.swift
+  s_8ec7459dbb9d79::t_6014b8f660b3e1 7,72-76,124-136
+Sources/ThermoApp/Views.swift
+  s_8ec7459dbb9d79::t_40f158aa4e3186 131,1130-1131
+Sources/ThermoApp/main.swift
+  s_8ec7459dbb9d79::t_092727ac5a6ebd 77-78
+Sources/ThermoL10n/Ja.swift
+  s_8ec7459dbb9d79::t_bd678bcfc0c2db 1-33
+Sources/ThermoL10n/L10n.swift
+  s_8ec7459dbb9d79::t_4531ed9b8263e9 9,18,26,32,69
+Sources/ThermoL10n/ZhHans.swift
+  s_8ec7459dbb9d79::t_a1d0f1626bbffb 4332-4357
+Sources/thermo/SettingsCommand.swift
+  s_8ec7459dbb9d79::t_2e249c04f82e32 68-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2cc25a5b43973149f3a5788e055ee737115ef8be",
+  "prompts": {},
+  "sessions": {
+    "s_8ec7459dbb9d79": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "092f72e7-0b1f-42d9-b107-4715eef5f3af",
+        "model": "unknown"
+      },
+      "human_author": "leipeng <leipeng950504@gmail.com>"
+    }
+  }
+}
