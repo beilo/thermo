@@ -1,0 +1,38 @@
+Sources/ThermoApp/FocusTimer.swift
+  s_776097f850b9c9::t_cce6c77a09734e 58
+  s_776097f850b9c9::t_1f89a964cdd458 10-11,13-16,26,36,42,50,53-57,59-63,68,77,84,163,185,191,194
+Sources/ThermoApp/FocusBreakScreen.swift
+  s_478e44ece81cca::t_58c08154179fb0 17,33,126-136,138,141,143,152-176
+Sources/ThermoApp/FocusView.swift
+  s_478e44ece81cca::t_f355fb4c8c7d0b 14-62,72,75,92,95
+Sources/ThermoL10n/Ja.swift
+  s_478e44ece81cca::t_c99ddefd8def01 32-34
+Sources/ThermoL10n/ZhHans.swift
+  s_478e44ece81cca::t_3a1afc2ec30f7c 4391-4393
+Tests/ThermoAppTests/FocusTimerTests.swift
+  s_478e44ece81cca::t_5b29e195ac0ff0 39,41,45-46,48-75,160-161,165,200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7efc309a32652beacf567e9bdf18c078b79d302b",
+  "prompts": {},
+  "sessions": {
+    "s_478e44ece81cca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1d732a5d-7ade-422c-a52d-ad181da52a5e",
+        "model": "unknown"
+      },
+      "human_author": "leipeng <leipeng950504@gmail.com>"
+    },
+    "s_776097f850b9c9": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1aa98-0344-7653-817a-67c7738dee32",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "leipeng <leipeng950504@gmail.com>"
+    }
+  }
+}
