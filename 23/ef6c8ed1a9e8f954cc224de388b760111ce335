@@ -1,0 +1,48 @@
+Sources/ThermoApp/CaptureActionSettingsView.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 76-82
+Sources/ThermoApp/CaptureScreenshotSelector.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 9-10,13-17,19-22,58-83,130,154-179,181-244,251,261-262,264-268,270-273,276-277,284-287,289-291,293-314,316-317,331,333,342,347-350,367-397,401,410,412,415-421,424,433,438,459,464,481-482,488-491,503-516,518,523,525,536,546,548-554,560-615,617-632,638,640-641,670,674-682,686
+Tests/CaptureCoreTests/CaptureSelectionGeometryTests.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 55-81
+Sources/CaptureCore/CaptureSelectionGeometry.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 85-123
+Sources/ThermoApp/CaptureSaveSettingsView.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 18-22,24,27-50
+Sources/ThermoApp/CaptureSaveModel.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 25,56-58
+  s_d679c3672564f7::t_68df9fa691e09b 59
+Tests/CaptureCoreTests/CaptureSelectionMarkupTests.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 1-82
+Sources/ThermoApp/StatusMenu.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 26-27,29-31,34-38,46-52
+.agents/notes/implemented/feature/2026-11-10-capture-toolbar.md
+  s_d679c3672564f7::t_009736338140ab 25-50
+  s_d679c3672564f7::t_4fbf879196d64c 22-24
+  s_d679c3672564f7::t_c29c99640e2bdc 1-21
+Tests/ThermoAppTests/CaptureSaveModelTests.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 65-87
+Sources/ThermoApp/CaptureWorkspace.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 99-102,133-135,144-146,150-162,164,167,199-200,205
+Sources/ThermoL10n/ZhHans.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 30-41,379
+Sources/CaptureCore/CaptureSelectionMarkup.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 1-68
+Sources/ThermoApp/Views.swift
+  s_d679c3672564f7::t_a81c2bf09657e4 1407,1409,1412-1413,1415-1427
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "23ef6c8ed1a9e8f954cc224de388b760111ce335",
+  "prompts": {},
+  "sessions": {
+    "s_d679c3672564f7": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c438-2998-7031-a83d-cee069ca34fb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "leipeng <leipeng950504@gmail.com>"
+    }
+  }
+}
